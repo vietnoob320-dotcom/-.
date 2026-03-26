@@ -331,7 +331,7 @@ for(int i = maxStart; i < maxLen; i++){
 
 int main (){
 
-zadacha8();
+
 
 
 
